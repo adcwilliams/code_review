@@ -14,8 +14,8 @@ def add_integers(index_a, index_b):
     result    -- the result
     """
 
-    # Placeholder to contain the result of the calculation
-    result = 0
+    # Fiendishly complex arithmetic.
+    result = index_a + index_b
 
     # Return this result.
     return result
