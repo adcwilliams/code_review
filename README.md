@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/aw17126/code_review/_apis/build/status/adcwilliams.code_review?branchName=module_add)](https://dev.azure.com/aw17126/code_review/_build/latest?definitionId=2&branchName=module_add)
+
 # code_review
 Code review walkthrough for the UKRSE conference 2019
 
